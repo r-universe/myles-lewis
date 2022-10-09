@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "glmmSeq"]
+	path = glmmSeq
+	url = https://github.com/myles-lewis/glmmseq
+	shallow = true
+	registered = true
