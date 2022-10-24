@@ -2,5 +2,9 @@
   {
     "package": "glmmSeq",
     "oncran": true
+  },
+  {
+    "package": "nestedcv",
+    "oncran": true
   }
 ]

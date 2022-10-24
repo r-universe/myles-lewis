@@ -8,3 +8,8 @@
 	url = https://github.com/myles-lewis/glmmseq
 	shallow = true
 	registered = true
+[submodule "nestedcv"]
+	path = nestedcv
+	url = https://github.com/myles-lewis/nestedcv
+	shallow = true
+	registered = true
