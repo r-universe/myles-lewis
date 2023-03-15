@@ -1,5 +1,9 @@
 [
   {
+    "package": "easylabel",
+    "oncran": true
+  },
+  {
     "package": "glmmSeq",
     "oncran": true
   },

@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "easylabel"]
+	path = easylabel
+	url = https://github.com/myles-lewis/easylabel
+	shallow = true
+	registered = true
 [submodule "glmmSeq"]
 	path = glmmSeq
 	url = https://github.com/myles-lewis/glmmseq
