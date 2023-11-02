@@ -8,6 +8,9 @@
 [submodule "glmmSeq"]
 	path = glmmSeq
 	url = https://github.com/myles-lewis/glmmseq
+[submodule "locuszoomr"]
+	path = locuszoomr
+	url = https://github.com/myles-lewis/locuszoomr
 [submodule "nestedcv"]
 	path = nestedcv
 	url = https://github.com/myles-lewis/nestedcv
