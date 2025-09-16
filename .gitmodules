@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cellGeometry"]
+	path = cellGeometry
+	url = https://github.com/myles-lewis/cellgeometry
 [submodule "easylabel"]
 	path = easylabel
 	url = https://github.com/myles-lewis/easylabel
