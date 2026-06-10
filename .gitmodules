@@ -17,6 +17,3 @@
 [submodule "mcprogress"]
 	path = mcprogress
 	url = https://github.com/myles-lewis/mcprogress
-[submodule "nestedcv"]
-	path = nestedcv
-	url = https://github.com/myles-lewis/nestedcv
